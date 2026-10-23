@@ -61,7 +61,7 @@ Activate the environment:
 
 **Windows PowerShell:**
 ```powershell
-.\.venv\Scripts\Activate.ps1
+.\.venv\Scripts\activate
 ```
 
 **macOS/Linux:**
